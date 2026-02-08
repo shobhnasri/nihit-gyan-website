@@ -17,5 +17,6 @@
 @import './components/buttons.css';
 @import './components/cards.css';
 @import './components/navigation.css';
+@import './components/footer.css';
 
 /* Page-specific styles will be added here */
