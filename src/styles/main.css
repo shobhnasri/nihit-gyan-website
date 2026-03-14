@@ -19,4 +19,5 @@
 @import './components/navigation.css';
 @import './components/footer.css';
 
-/* Page-specific styles will be added here */
+/* Page-specific styles */
+@import './sections.css';

@@ -64,10 +64,10 @@ That's why I combine deep experience with genuine curiosity about your specific 
 From system architecture to team dynamics to business outcomes—I've worked at every level. I understand how a platform decision affects team morale, how team structure impacts delivery speed, and how technical choices unlock or block market opportunities. That systemic view—seeing the connections between technology, people, and business—is what makes transformation stick.
 
 **The Partnership Approach**  
-I don't prescribe solutions from a playbook. I collaborate with you to understand your specific context, co-create strategies, and work alongside your team to implement and iterate.
+I work alongside your team, not above them. Whether it's pairing with your architect on a design, sitting in on standups to understand dynamics, or facilitating workshops—you get hands-on guidance grounded in your reality, not abstract advice from afar.
 
 **Changes That Last**  
-I don't just solve today's problem—I help you build the capabilities, practices, and culture so the changes stick. No more reorganizations that fade in weeks or initiatives that lose momentum. Whether it's improving delivery rates, enabling enterprise scale, or transforming team performance—success means you're stronger and more capable after our work together, not dependent on ongoing advisory.
+I don't just solve today's problem—I help you build the capabilities, practices, and culture that make transformation sustainable. Whether it's improving delivery rates, enabling enterprise scale, or transforming team performance—success means you're stronger and more capable after our work together, not dependent on ongoing advisory.
 
 ---
 
@@ -208,9 +208,9 @@ Strategic support for product experimentation, market fit discovery, and innovat
 ### Introduction
 I'm the founder of Nihit Gyan Advisory—"Nihit Gyan" means "embedded wisdom" in Sanskrit, which captures what I do: help you embed lasting knowledge and practices into your organization for enduring impact.
 
-With over 20 years leading engineering teams at companies like Elsevier, Accredible, and Thomson Reuters, I've lived the challenges you're facing. I've scaled teams from 4 to 70+ people, transformed underperforming organizations, launched products generating millions in revenue, and enabled companies to win enterprise clients they couldn't have served before.
+With over 20 years leading engineering teams at companies like Elsevier, Accredible, and Thomson Reuters, I've been in your seat. I've made the hiring mistakes, accumulated the technical debt, watched teams plateau. I've also turned those situations around—scaled teams from 4 to 70+, transformed underperforming organizations, launched products generating millions in revenue, and enabled companies to win enterprise clients.
 
-But more than tactics and frameworks, I bring a philosophy: that the best engineering organizations are built on psychological safety, lean principles, and a relentless focus on delivering customer value.
+What I've learned: tactics without philosophy fail, and philosophy without tactical skill stays theoretical. You need both.
 
 ---
 
