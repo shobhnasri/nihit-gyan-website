@@ -342,6 +342,58 @@
   flex: 1;
 }
 
+/* On desktop: always show details content, hide the summary toggle */
+/* Force open on desktop by making the content always visible */
+@media (min-width: 768px) {
+  .service-details {
+    display: block;
+  }
+
+  .service-details-toggle {
+    display: none;
+  }
+}
+
+/* On mobile: make it a proper collapsible */
+@media (max-width: 767px) {
+  .service-details {
+    border-top: 1px solid var(--color-gray-200);
+    padding-top: 0;
+  }
+
+  .service-details-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-4) 0;
+    font-size: var(--text-sm);
+    font-weight: var(--font-semibold);
+    color: var(--color-primary);
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+  }
+
+  .service-details-toggle::-webkit-details-marker {
+    display: none;
+  }
+
+  .service-details-toggle::after {
+    content: '+';
+    font-size: var(--text-lg);
+    font-weight: var(--font-normal);
+    transition: transform var(--transition-fast);
+  }
+
+  .service-details[open] .service-details-toggle::after {
+    content: '−';
+  }
+
+  .service-details .service-detail-section {
+    padding-bottom: var(--space-4);
+  }
+}
+
 .service-detail-section {
   margin-bottom: var(--space-5);
 }

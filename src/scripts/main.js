@@ -40,6 +40,13 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
+    // Service card details: collapse on mobile, keep open on desktop
+    if (window.innerWidth < 768) {
+        document.querySelectorAll('.service-details').forEach(function(details) {
+            details.removeAttribute('open');
+        });
+    }
+
     // Smooth Scrolling for Anchor Links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
