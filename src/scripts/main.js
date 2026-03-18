@@ -2,9 +2,9 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile Menu Toggle
-    const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
-    const mobileMenu = document.querySelector('.mobile-menu');
-    const mobileMenuLinks = document.querySelectorAll('.mobile-menu a');
+    const mobileMenuToggle = document.querySelector('.navbar-toggle');
+    const mobileMenu = document.querySelector('.navbar-mobile-menu');
+    const mobileMenuLinks = document.querySelectorAll('.navbar-mobile-menu a');
 
     if (mobileMenuToggle && mobileMenu) {
         // Toggle mobile menu when hamburger button is clicked
